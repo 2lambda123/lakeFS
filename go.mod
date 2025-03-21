@@ -1,6 +1,7 @@
 module github.com/treeverse/lakefs
 
 go 1.20
+toolchain go1.24.1
 
 require (
 	cloud.google.com/go v0.110.0 // indirect
@@ -122,7 +123,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.15.5 // indirect
 	github.com/getsentry/sentry-go v0.16.0 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
-	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
+	github.com/golang-jwt/jwt/v5 v5.2.2 // indirect
 	github.com/golang/glog v1.2.4 // indirect
 	github.com/google/flatbuffers v2.0.0+incompatible // indirect
 	github.com/google/s2a-go v0.1.3 // indirect
