@@ -1,6 +1,7 @@
 module github.com/treeverse/lakefs
 
 go 1.20
+toolchain go1.24.1
 
 require (
 	cloud.google.com/go v0.110.0 // indirect
@@ -87,7 +88,7 @@ require (
 	github.com/georgysavva/scany/v2 v2.0.0
 	github.com/go-co-op/gocron v1.18.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/golang-jwt/jwt/v4 v4.5.1
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v1.2.1
 	github.com/hashicorp/go-hclog v1.6.3
