@@ -74,7 +74,7 @@
     "typescript": "^4.8.3",
     "typesync": "^0.11.1",
     "unified": "^10.1.2",
-    "vite": "^6.2.1",
+    "vite": "^6.2.3",
     "vite-plugin-eslint": "^1.8.1",
     "vitest": "^3.0.8"
   }
